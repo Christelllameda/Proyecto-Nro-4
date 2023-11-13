@@ -1,5 +1,3 @@
-# Proyecto-Nro-4<div align="center">
-
 # **🚧🏗️Proyecto Nro 4 - Obras públicas inconclusas en Venezuela🏗️🚧** </div>
 [![Metro-Guarenas-Guatire.jpg](https://i.postimg.cc/m2z1qjWt/Metro-Guarenas-Guatire.jpg)](https://postimg.cc/ppvd5DTH)
 
@@ -15,12 +13,10 @@ Para mejorar la comprensión y visibilidad de estos datos, se utilizará la plat
 
 Al emplear Tableau, se espera proporcionar a las partes interesadas, responsables de la toma de decisiones y al público en general, una comprensión más clara y accesible de la situación de las obras públicas inconclusas en Venezuela. Esto, a su vez, puede contribuir a la formulación de políticas más informadas, la asignación eficiente de recursos y la implementación de soluciones efectivas para abordar esta problemática. La visualización de datos en Tableau será una herramienta valiosa para promover la transparencia y el entendimiento público de la situación de las obras públicas en el país.
 
-(https://public.tableau.com/app/profile/christell.lameda/viz/Obras_inconclusas_vzla/Dashboard1?publish=yes)
-
 
 ## Contenido
 - [data](https://github.com/Christelllameda/Proyecto-Nro-4/tree/main/data)
-    - [obras_inconclusas](https://github.com/Christelllameda/Proyecto-Nro-4/blob/main/
+    - [obras_inconclusas](https://github.com/Christelllameda/Proyecto-Nro-4/blob/main/data/obras_inconclusas.xlsx)
 - [imagen](https://github.com/Christelllameda/Proyecto-Nro-4/tree/main/img)
 
 
@@ -38,6 +34,9 @@ En el proceso de visualización de datos, nos basamos en el archivo 'obras_incon
 Tableau nos ha permitido explorar y presentar de manera clara y comprensible los patrones y detalles inherentes a las obras públicas inconclusas en Venezuela. A través de diversas visualizaciones, hemos delineado tendencias, identificado áreas críticas y proporcionado una visión integral de la situación de estas obras. Este enfoque visual no solo mejora la comprensión de los datos, sino que también facilita la toma de decisiones informadas.
 
 La utilización de Tableau ha posibilitado la creación de un dashboard interactivo que permite a los usuarios explorar los datos de manera personalizada. Desde la identificación de proyectos específicos hasta el análisis de ejecución financiera, la visualización de datos en Tableau se erige como una herramienta valiosa para todos los interesados, desde responsables de proyectos hasta ciudadanos preocupados por el desarrollo de su comunidad.
+
+
+(https://public.tableau.com/app/profile/christell.lameda/viz/Obras_inconclusas_vzla/Dashboard1?publish=yes)
 
 
 ## Conclusión
