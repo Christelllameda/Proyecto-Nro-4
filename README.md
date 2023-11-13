@@ -35,6 +35,7 @@ Tableau nos ha permitido explorar y presentar de manera clara y comprensible los
 
 La utilización de Tableau ha posibilitado la creación de un dashboard interactivo que permite a los usuarios explorar los datos de manera personalizada. Desde la identificación de proyectos específicos hasta el análisis de ejecución financiera, la visualización de datos en Tableau se erige como una herramienta valiosa para todos los interesados, desde responsables de proyectos hasta ciudadanos preocupados por el desarrollo de su comunidad.
 
+En el siguiente link se visualiza el resultado final del dashboard
 
 (https://public.tableau.com/app/profile/christell.lameda/viz/Obras_inconclusas_vzla/Dashboard1?publish=yes)
 
@@ -42,7 +43,7 @@ La utilización de Tableau ha posibilitado la creación de un dashboard interact
 ## Conclusión
 El presente proyecto es una iniciativa crucial para abordar la problemática de las obras inconclusas de infraestructura en el país. A través de la recopilación, limpieza, análisis y visualización de datos, este proyecto busca aumentar la transparencia y la toma de decisiones informadas en relación con las obras públicas inconclusas. Al hacerlo, contribuye al mejoramiento de la gestión de proyectos de infraestructura y, en última instancia, al desarrollo sostenible de Venezuela. La identificación de obras inconclusas y su análisis detallado son pasos fundamentales hacia un futuro en el que los recursos públicos se utilicen eficaz y eficientemente para el beneficio de la sociedad.
 
-Una vez realizada la extracción y posterior visualización de datos, se obtuvo un total de 60 obras públicas sin finalizar, el sector con mas obras es el de transporte y una cantidad de 185.478,78 millones de dólares invertidos.
+Una vez realizada la extracción y posterior visualización de datos, se obtuvo un total de 60 obras públicas sin finalizar, el sector con mas obras es el de transporte pero el sector de hidrocarburos es en el que mas cantidad de dinero se ha gastado, el estado es Carabobo  y una cantidad de 185.478,78 millones de dólares invertidos.
 
 ## Links & Recursos
 - https://pandas.pydata.org/
